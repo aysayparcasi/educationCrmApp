@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/educationCRMwithJSF.iml" filepath="$PROJECT_DIR$/.idea/educationCRMwithJSF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/educationCrmApplication/educationCrmWithJsf.iml" filepath="$PROJECT_DIR$/educationCrmApplication/educationCrmWithJsf.iml" />
+    </modules>
+  </component>
+</project>
